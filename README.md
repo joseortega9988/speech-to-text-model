@@ -5,9 +5,9 @@
 
 ## How to run it
 
-- Download the carpets with the audio files and models, 
-- In the same directory,from the terminal run the Exercise4_deepspeech.py
-- Select a language between italian,spanish or english
+1. Download the carpets with the audio files and models,
+2. In the same directory,from the terminal run the Exercise4_deepspeech.py
+3. Select a language between italian,spanish or english
 
 The Word Error Rate (WER) of the different languages
 -  English has a WER of 21.8%
