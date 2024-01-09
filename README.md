@@ -9,4 +9,10 @@
 - In the same directory,from the terminal run the Exercise4_deepspeech.py
 - Select a language between italian,spanish or english
 
+The Word Error Rate (WER) of the different languages
+-  English has a WER of 21.8%
+-  Spanish has a WER of 35,7%
+-  Italian has a WER of 36,6%
+
+
 The documentation with more info is in the .pdf file
